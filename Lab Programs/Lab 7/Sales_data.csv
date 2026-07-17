@@ -1,0 +1,11 @@
+OrderDate,Region,Manager,SalesMan,Item,Units,Unit_price,Sale_amt
+01-01-2020,East,Martha,Alexander,Pencil,95,1.99,189.05
+04-01-2020,Central,Hermann,Shelli,Binder,50,19.99,999.50
+09-01-2020,Central,Hermann,Luis,Pencil,36,4.99,179.64
+13-01-2020,East,Martha,Alexander,Binder,60,8.99,539.40
+15-01-2020,West,Timothy,David,Pencil,56,2.99,167.44
+18-01-2020,East,Martha,Diana,Pen,27,19.99,539.73
+22-01-2020,Central,Hermann,Luis,Pen Set,90,4.99,449.10
+25-01-2020,West,Timothy,David,Desk,5,125.00,625.00
+28-01-2020,East,Martha,Alexander,Pen Set,32,15.99,511.68
+30-01-2020,Central,Hermann,Shelli,Binder,60,8.99,539.40
